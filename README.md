@@ -1,6 +1,6 @@
 # lept_json_cplusplus
 
-本项目是在开源项目json-tutorial（项目地址https://github.com/miloyip/json-tutorial）的基础上进行改写的。 原开源项目是用C开发的，本项目用C++进行实现。具体教程在原项目中，项目地址如上。
+本项目是在开源项目json-tutorial（项目地址 https://github.com/miloyip/json-tutorial ）的基础上进行改写的。 原开源项目是用C开发的，本项目用C++进行实现。具体教程在原项目中，项目地址如上。
 
 下面介绍本项目的一些事项。
 
